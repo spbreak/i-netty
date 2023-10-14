@@ -5,8 +5,6 @@ import cn.hlx.util.concurrent.EventExecutor;
 import cn.hlx.util.concurrent.EventExecutorChooserFactory;
 import cn.hlx.util.concurrent.EventExecutorGroup;
 
-import java.nio.channels.spi.SelectorProvider;
-import java.util.concurrent.Executor;
 
 public class NioEventLoopGroup implements EventExecutorGroup {
     private final EventExecutor[] children;

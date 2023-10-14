@@ -1,7 +1,6 @@
 package cn.hlx.eventLoopGroup;
 
 import cn.hlx.channel.nio.NioEventLoopGroup;
-import cn.hlx.util.concurrent.EventExecutor;
 import org.junit.Test;
 
 public class chooser {
