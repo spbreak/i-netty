@@ -1,7 +1,5 @@
 package cn.hlx.util.concurrent;
 
-import java.util.concurrent.Executor;
-
 public interface EventExecutorGroup {
 
     

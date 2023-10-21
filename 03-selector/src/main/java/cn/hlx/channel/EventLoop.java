@@ -1,5 +1,6 @@
 package cn.hlx.channel;
 
+
 import cn.hlx.util.concurrent.EventExecutor;
 
 /**
