@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>02-reactor</artifactId>
+    <artifactId>02-1-reactor-mult-thread</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

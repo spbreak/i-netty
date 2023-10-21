@@ -41,6 +41,4 @@ public class DefaultHandler implements Handler {
             e1.printStackTrace();
         }
     }
-    
-    
 }

@@ -6,9 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="02-reactor" />
+        <module name="02-0-reactor" />
+        <module name="02-1-reactor-mult-thread" />
+        <module name="03-selector" />
         <module name="01-eventLoopGroup" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-eventLoopGroup (1)" target="8" />
+      <module name="02-reactor (1)" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
